@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Patron_Prototype",
+			"Path": "C:\\Users\\HP\\Documents\\Unreal Projects\\Patron_Prototype\\Source\\Patron_Prototype.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Patron_PrototypeEditor",
+			"Path": "C:\\Users\\HP\\Documents\\Unreal Projects\\Patron_Prototype\\Source\\Patron_PrototypeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,39 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Patron_Prototype-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\Patron_PrototypeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\ArmaBase.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\ArmaIterator.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\ArmaLazer.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\ArmaRifle.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\coleccion.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\Escudo.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\IColeccion.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\IIterator.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\IPrototype.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\Nave.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\Patron_Prototype.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\Patron_PrototypeGameMode.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\Patron_PrototypePawn.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\Patron_PrototypeProjectile.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\ArmaBase.gen.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\ArmaIterator.gen.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\ArmaLazer.gen.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\ArmaRifle.gen.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\coleccion.gen.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\Escudo.gen.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\IColeccion.gen.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\IIterator.gen.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\IPrototype.gen.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\Nave.gen.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\Patron_Prototype.init.gen.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\Patron_PrototypeGameMode.gen.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\Patron_PrototypePawn.gen.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\Patron_PrototypeProjectile.gen.cpp.obj"
+"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\Default.rc2.res"
+/OUT:"C:\Users\HP\Documents\Unreal Projects\Patron_Prototype\Intermediate\Build\Win64\UE4Editor\Development\Patron_Prototype\UE4Editor-Patron_Prototype-0001.lib"

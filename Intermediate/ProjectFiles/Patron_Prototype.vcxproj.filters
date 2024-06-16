@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Patron_Prototype.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{4F950967-9D8D-49BA-8E15-CBC6FD1496E7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Patron_Prototype.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Patron_PrototypeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{703548E2-B246-4A23-86C1-364C9B1D77B1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Patron_Prototype">
+      <UniqueIdentifier>{0D512301-FAF9-47E2-A3F3-0BDE8A5CAEB0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Patron_Prototype\ArmaBase.cpp">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Prototype\ArmaBase.h">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Prototype\ArmaIterator.cpp">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Prototype\ArmaIterator.h">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Prototype\ArmaLazer.cpp">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Prototype\ArmaLazer.h">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Prototype\ArmaRifle.cpp">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Prototype\ArmaRifle.h">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Prototype\coleccion.cpp">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Prototype\coleccion.h">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Prototype\Escudo.cpp">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Prototype\Escudo.h">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Prototype\IColeccion.cpp">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Prototype\IColeccion.h">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Prototype\IIterator.cpp">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Prototype\IIterator.h">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Prototype\IPrototype.cpp">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Prototype\IPrototype.h">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Prototype\Nave.cpp">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Prototype\Nave.h">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Patron_Prototype\Patron_Prototype.Build.cs">
+      <Filter>Source\Patron_Prototype</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Patron_Prototype\Patron_Prototype.cpp">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Prototype\Patron_Prototype.h">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Prototype\Patron_PrototypeGameMode.cpp">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Prototype\Patron_PrototypeGameMode.h">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Prototype\Patron_PrototypePawn.cpp">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Prototype\Patron_PrototypePawn.h">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Prototype\Patron_PrototypeProjectile.cpp">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Prototype\Patron_PrototypeProjectile.h">
+      <Filter>Source\Patron_Prototype</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
